@@ -1,0 +1,51 @@
+{
+  "navbar": {
+    "title": "Professor Apakov"
+  },
+  "hero": {
+    "name": "Professor Yusupjon Pulatovich Apakov",
+    "bio1": "Doctor of Physical and Mathematical Sciences (DSc), Professor Yusupjon Pulatovich Apakov is one of the prominent scientists who has been actively working in the field of partial differential equations.",
+    "bio2": "Yu.P. Apakov was born on January 2, 1956, in Hazratishoh village, Chortoq district, Namangan region.",
+    "bio3": "In 2016, he successfully defended his doctoral dissertation at the National University of Uzbekistan and received the scientific degree of Doctor of Physical and Mathematical Sciences."
+  },
+  "image": {
+    "university": "Namangan State Technical University",
+    "department": "Professor of the Department of Higher Mathematics"
+  },
+  "news": {
+    "title": "News",
+    "item1": "Professor Apakov celebrated his 70th birthday.",
+    "item2": "Awarded the Honorary Worker badge.",
+    "item3": "Professor received the academic title."
+  },
+  "career": {
+    "title": "Academic Career",
+    "item1": "In 1979–1980, he taught mathematics at secondary school No. 37 in Hazratishoh village.",
+    "item2": "In 1991–2003, he worked as an associate professor at the Department of Higher Mathematics at Namangan Industrial Technology Institute.",
+    "item3": "In 2003–2005, he served as the head of the Department of Higher Mathematics.",
+    "item4": "In 2017–2022, he worked as acting professor at the Department of Higher Mathematics at Namangan Engineering and Construction Institute.",
+    "item5": "Since 2025, he has been working as a professor at the Department of Higher Mathematics at Namangan State Technical University."
+  },
+  "research": {
+    "title": "Scientific Research",
+    "item1": "Boundary value problems for differential equations of mixed parabolic-hyperbolic type have been studied",
+    "item2": "Fundamental solutions for third-order equations with multiple characteristics have been constructed",
+    "item3": "Green's functions for higher-order equations have been developed",
+    "item4": "Theoretical foundations for applying the Fourier method to odd-order equations have been created"
+  },
+  "publications": {
+    "title": "Books and Publications",
+    "book1": "Higher Mathematics (Volumes 1–2) – 2022, 2026",
+    "book2": "Examples and Problems in Higher Mathematics – 2022",
+    "book3": "Examples and Problems in Ordinary Differential Equations – 2009",
+    "book4": "On the Theory of Third-Order Equations – 2019",
+    "book5": "Boundary Value Problems of Mixed Type – 2023",
+    "note": "Professor Apakov is the author of more than 270 scientific articles, more than 50 of which are indexed in Scopus and Web of Science databases."
+  },
+  "awards": {
+    "title": "Awards",
+    "item1": "Honorary Worker Badge of the II degree – 2023",
+    "item2": "Certificate of Honor from the Minister of Higher and Secondary Special Education – 2022, 2025",
+    "item3": "Certificate of Appreciation from the Republican Center for Spirituality and Enlightenment – 2022"
+  }
+}

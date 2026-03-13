@@ -1,0 +1,51 @@
+{
+  "navbar": {
+    "title": "Professor Apakov"
+  },
+  "hero": {
+    "name": "Professor Yusupjon Pulatovich Apakov",
+    "bio1": "Fizika-matematika fanlari doktori (DSc), professor Yusupjon Pulatovich Apakov xususiy hosilali differensial tenglamalar sohasida samarali faoliyat olib borgan atoqli olimlardan biridir.",
+    "bio2": "Yu.P. Apakov 1956-yil 2-yanvarda Namangan viloyati Chortoq tumani Hazratishoh qishlog‘ida tavallud topgan.",
+    "bio3": "2016-yilda O‘zbekiston Milliy Universitetida doktorlik dissertatsiyasini muvaffaqiyatli himoya qilib fizika-matematika fanlari doktori ilmiy darajasini olgan."
+  },
+  "image": {
+    "university": "Namangan davlat texnika universiteti",
+    "department": "Oliy matematika kafedrasi professori"
+  },
+  "news": {
+    "title": "News",
+    "item1": "Professor Apakov 70 yoshini nishonladi.",
+    "item2": "Mehnat faxriysi ko‘krak nishoni bilan taqdirlandi.",
+    "item3": "Professor ilmiy unvonini oldi."
+  },
+  "career": {
+    "title": "Academic Career",
+    "item1": "1979–1980 yillarda Hazratishoh qishlog‘idagi 37-o‘rta maktabda matematika fanidan dars berdi.",
+    "item2": "1991–2003 yillarda Namangan sanoat texnologiya institutida Oliy matematika kafedrasi dotsenti lavozimida ishladi.",
+    "item3": "2003–2005 yillarda Oliy matematika kafedrasi mudiri bo‘lib faoliyat olib bordi.",
+    "item4": "2017–2022 yillarda Namangan muhandislik-qurilish instituti Oliy matematika kafedrasi professori vazifasini bajaruvchi lavozimida ishladi.",
+    "item5": "2025-yildan Namangan davlat texnika universiteti Oliy matematika kafedrasi professori sifatida faoliyat yuritmoqda."
+  },
+  "research": {
+    "title": "Scientific Research",
+    "item1": "Aralash parabolo-giperbolik tipdagi differensial tenglamalar uchun chegaraviy masalalar tadqiq qilingan",
+    "item2": "Uchinchi tartibli karrali xarakteristikali tenglamalar uchun fundamental yechimlar qurilgan",
+    "item3": "Yuqori tartibli tenglamalar uchun Grin funksiyalari ishlab chiqilgan",
+    "item4": "Fure usulini toq tartibli tenglamalarga qo‘llashning nazariy asoslari yaratilgan"
+  },
+  "publications": {
+    "title": "Books and Publications",
+    "book1": "Oliy matematika (1–2 jild) – 2022, 2026",
+    "book2": "Oliy matematikadan misol va masalalar – 2022",
+    "book3": "Oddiy differensial tenglamalardan misol va masalalar – 2009",
+    "book4": "К теории уравнений третьего порядка – 2019",
+    "book5": "Краевые задачи смешанного типа – 2023",
+    "note": "Professor Apakov 270 dan ortiq ilmiy maqolalar muallifi bo‘lib, ularning 50 dan ortig‘i Scopus va Web of Science bazalarida indekslangan."
+  },
+  "awards": {
+    "title": "Awards",
+    "item1": "II darajali “Mehnat faxriysi” ko‘krak nishoni – 2023",
+    "item2": "Oliy va o‘rta maxsus ta’lim vazirining Faxriy yorlig‘i – 2022, 2025",
+    "item3": "Respublika Ma’naviyat va ma’rifat markazi tashakkurnomasi – 2022"
+  }
+}
