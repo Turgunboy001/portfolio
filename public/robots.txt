@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sizning-domen.com/sitemap.xml
