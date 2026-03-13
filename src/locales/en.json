@@ -6,7 +6,7 @@
     "name": "Professor Yusupjon Pulatovich Apakov",
     "bio1": "Doctor of Physical and Mathematical Sciences (DSc), Professor Yusupjon Pulatovich Apakov is one of the prominent scientists who has been actively working in the field of partial differential equations.",
     "bio2": "Yu.P. Apakov was born on January 2, 1956, in Hazratishoh village, Chortoq district, Namangan region.",
-    "bio3": "In 2016, he successfully defended his doctoral dissertation at the National University of Uzbekistan and received the scientific degree of Doctor of Physical and Mathematical Sciences."
+    "bio3": "He defended his candidate (PhD) dissertation in 1989 and later defended his doctoral dissertation in 2016, earning the Doctor of Physical and Mathematical Sciences (DSc) degree."
   },
   "image": {
     "university": "Namangan State Technical University",
@@ -14,9 +14,10 @@
   },
   "news": {
     "title": "News",
-    "item1": "Professor Apakov celebrated his 70th birthday.",
+    "item1": "Professor Apakov celebrated his 70th birthday in 2026.",
     "item2": "Awarded the Honorary Worker badge.",
-    "item3": "Professor received the academic title."
+    "item3": "In 1993 he received the title of Associate Professor (Docent); in 2022 he received the title of Professor.",
+    "item4": "He supervised 4 PhD dissertations; currently 2 PhD and 1 DSc candidates are preparing their defenses."
   },
   "career": {
     "title": "Academic Career",
@@ -24,7 +25,8 @@
     "item2": "In 1991–2003, he worked as an associate professor at the Department of Higher Mathematics at Namangan Industrial Technology Institute.",
     "item3": "In 2003–2005, he served as the head of the Department of Higher Mathematics.",
     "item4": "In 2017–2022, he worked as acting professor at the Department of Higher Mathematics at Namangan Engineering and Construction Institute.",
-    "item5": "Since 2025, he has been working as a professor at the Department of Higher Mathematics at Namangan State Technical University."
+    "item5": "Since 2025, he has been working as a professor at the Department of Higher Mathematics at Namangan State Technical University.",
+    "item6": "He supervised 4 PhD dissertations; currently 2 PhD and 1 DSc candidates are preparing their defenses."
   },
   "research": {
     "title": "Scientific Research",

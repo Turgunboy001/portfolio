@@ -6,7 +6,7 @@
     "name": "Professor Yusupjon Pulatovich Apakov",
     "bio1": "Fizika-matematika fanlari doktori (DSc), professor Yusupjon Pulatovich Apakov xususiy hosilali differensial tenglamalar sohasida samarali faoliyat olib borgan atoqli olimlardan biridir.",
     "bio2": "Yu.P. Apakov 1956-yil 2-yanvarda Namangan viloyati Chortoq tumani Hazratishoh qishlog‘ida tavallud topgan.",
-    "bio3": "2016-yilda O‘zbekiston Milliy Universitetida doktorlik dissertatsiyasini muvaffaqiyatli himoya qilib fizika-matematika fanlari doktori ilmiy darajasini olgan."
+    "bio3": "1989-yilda nomzodlik dissertatsiyasini himoya qildi; 2016-yilda doktorlik dissertatsiyasini himoya qilib fizika-matematika fanlari doktori (DSc) ilmiy darajasini oldi."
   },
   "image": {
     "university": "Namangan davlat texnika universiteti",
@@ -14,9 +14,10 @@
   },
   "news": {
     "title": "News",
-    "item1": "Professor Apakov 70 yoshini nishonladi.",
+    "item1": "2026-yilda Professor Apakov 70 yoshini nishonladi.",
     "item2": "Mehnat faxriysi ko‘krak nishoni bilan taqdirlandi.",
-    "item3": "Professor ilmiy unvonini oldi."
+    "item3": "1993-yilda dotsent ilmiy unvonini oldi; 2022-yilda professorlik ilmiy unvonini oldi.",
+    "item4": "Uning rahbarligida 4 ta PhD dissertatsiyasi himoya qilindi; hozirda 2 ta PhD va 1 ta DSc doktorant himoya arafasida."
   },
   "career": {
     "title": "Academic Career",
@@ -24,7 +25,8 @@
     "item2": "1991–2003 yillarda Namangan sanoat texnologiya institutida Oliy matematika kafedrasi dotsenti lavozimida ishladi.",
     "item3": "2003–2005 yillarda Oliy matematika kafedrasi mudiri bo‘lib faoliyat olib bordi.",
     "item4": "2017–2022 yillarda Namangan muhandislik-qurilish instituti Oliy matematika kafedrasi professori vazifasini bajaruvchi lavozimida ishladi.",
-    "item5": "2025-yildan Namangan davlat texnika universiteti Oliy matematika kafedrasi professori sifatida faoliyat yuritmoqda."
+    "item5": "2025-yildan Namangan davlat texnika universiteti Oliy matematika kafedrasi professori sifatida faoliyat yuritmoqda.",
+    "item6": "Uning rahbarligida 4 ta PhD dissertatsiyasi himoya qilindi; hozirda 2 ta PhD va 1 ta DSc doktorant himoya arafasida."
   },
   "research": {
     "title": "Scientific Research",

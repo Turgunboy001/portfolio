@@ -57,7 +57,7 @@ const Hero = () => {
 
         <div className="space-y-3 text-sm">
           <p>
-            <span className="text-gray-500">2025</span> – {t('news.item1')}
+            <span className="text-gray-500">2026</span> – {t('news.item1')}
           </p>
 
           <p>
@@ -66,6 +66,10 @@ const Hero = () => {
 
           <p>
             <span className="text-gray-500">2022</span> – {t('news.item3')}
+          </p>
+
+          <p>
+            <span className="text-gray-500">2026</span> – {t('news.item4')}
           </p>
         </div>
       </section>
@@ -93,6 +97,10 @@ const Hero = () => {
 
           <p>
             {t('career.item5')}
+          </p>
+
+          <p>
+            {t('career.item6')}
           </p>
         </div>
       </section>
